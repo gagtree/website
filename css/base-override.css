@@ -1,0 +1,25 @@
+.list-social-icons a:hover {
+    color: #059669;
+}
+
+.list-icons .list-inline-item i:hover {
+    color: #059669;
+}
+
+.bg-primary {
+    background-color: #212529 !important;
+}
+
+.text-primary {
+    color: #059669 !important;
+}
+
+a {
+    color: #059669;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: #059669;
+}
