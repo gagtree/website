@@ -1,5 +1,5 @@
 .btn-store {
-    background-color: #059669;
+    background-color: #52815a;
     color: #f0f0f0;
     padding-left: 50px;
     padding-right: 50px;
@@ -10,11 +10,11 @@
     color: #f0f0f0;}
 
 .list-social-icons a:hover {
-    color: #059669;
+    color: #52815a;
 }
 
 .list-icons .list-inline-item i:hover {
-    color: #059669;
+    color: #52815a;
 }
 
 .bg-primary {
@@ -22,15 +22,15 @@
 }
 
 .text-primary {
-    color: #059669 !important;
+    color: #52815a !important;
 }
 
 a {
-    color: #059669;
+    color: #52815a;
 }
 
 a:hover,
 a:focus,
 a:active {
-    color: #059669;
+    color: #52815a;
 }
