@@ -1,3 +1,14 @@
+.btn-store {
+    background-color: #059669;
+    color: #f0f0f0;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.btn-store:hover {
+    background-color: #495057;
+    color: #f0f0f0;}
+
 .list-social-icons a:hover {
     color: #059669;
 }
