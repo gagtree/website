@@ -9,6 +9,14 @@
     background-color: #495057;
     color: #f0f0f0;}
 
+.list-languages a {
+    color: #495057;
+}
+
+.list-languages a:hover {
+    color: #52815a;
+}
+
 .list-social-icons a:hover {
     color: #52815a;
 }
